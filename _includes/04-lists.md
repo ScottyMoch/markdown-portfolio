@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+### Unordered List of my favorite things
+* Books
+* USB Gadgets
+* Pocket Tools
+  * knives
+  * multi purpose
+  * lights
+* Walking
+
